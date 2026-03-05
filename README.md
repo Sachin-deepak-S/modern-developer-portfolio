@@ -29,7 +29,7 @@ https://sachindeepak.dev
 
 ## Experience Section
 
-![Experience Preview](preview/experience.png)
+![Experience Preview](preview/internship.png)
 
 ## Skills Section
 
@@ -45,7 +45,7 @@ https://sachindeepak.dev
 
 ## Contact Section
 
-![Contact Preview](preview/contact.png)
+![Contact Preview](preview/profile.png)
 
 ---
 
