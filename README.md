@@ -1,61 +1,110 @@
 # 🚀 Modern Developer Portfolio
 
-A modern animated developer portfolio built using **HTML, CSS and JavaScript**.
-This portfolio is designed for students and developers who want a **clean, professional personal website**.
+A **modern animated developer portfolio template** built using **HTML, CSS and JavaScript**.
+Designed for students and developers who want a **clean, professional personal website** with animations, projects, certificates and contact features.
 
 ---
 
-## ✨ Features
+# 🌐 Live Demo
+
+View the portfolio live:
+
+https://sachindeepak.dev
+
+---
+
+# 📸 Portfolio Preview
+
+## Hero Section
+
+![Hero Preview](preview/hero.png)
+
+## About Section
+
+![About Preview](preview/about.png)
+
+## Education Section
+
+![Education Preview](preview/education.png)
+
+## Experience Section
+
+![Experience Preview](preview/experience.png)
+
+## Skills Section
+
+![Skills Preview](preview/skills.png)
+
+## Projects Section
+
+![Projects Preview](preview/projects.png)
+
+## Certificates Section
+
+![Certificates Preview](preview/certificates.png)
+
+## Contact Section
+
+![Contact Preview](preview/contact.png)
+
+---
+
+# ✨ Features
 
 * 🌙 Dark / Light Theme
-* 🎨 Modern UI Design
-* ⚡ Smooth Animations
-* 📂 Project Filtering System
-* 🏆 Certificates Modal Viewer
-* 📬 Contact Form Integration
-* 📱 Fully Responsive Design
-* 🔍 SEO Optimized
-* 🚀 Easy Deployment (GitHub / Netlify / Vercel)
+* ⚡ Smooth animations
+* 🎨 Modern UI design
+* 🔎 Project search and filtering
+* 🏆 Certificates modal preview
+* 📬 Contact form integration
+* 📱 Fully responsive layout
+* 🔗 Social media integration
+* 🚀 Easy deployment
 
 ---
 
-## 🖥️ Live Demo
+# 🛠 Tech Stack
 
-You can view the live portfolio here:
+### Frontend
 
-https://your-portfolio-link.netlify.app
+* HTML5
+* CSS3
+* JavaScript
+
+### Libraries
+
+* Font Awesome
+* Google Fonts
+
+### Deployment
+
+* GitHub Pages
+* Netlify
+* Vercel
 
 ---
 
-## 📸 Preview
+# ⚙️ Installation
 
-Add a screenshot of the portfolio interface here.
+Clone the repository
 
-Example:
-
-![Portfolio Preview](preview.png)
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/yourusername/modern-developer-portfolio.git
+```bash
+git clone https://github.com/Sachin-deepak-S/modern-developer-portfolio.git
 ```
 
-Open the project folder:
+Open the folder
 
-```
+```bash
 cd modern-developer-portfolio
 ```
 
-Open **index.html** in your browser.
+Run the project
+
+Open `index.html` in your browser.
 
 ---
 
-## 🛠️ Customization
+# 🧩 Customization
 
 To customize this portfolio:
 
@@ -68,42 +117,53 @@ To customize this portfolio:
 
 ---
 
-## 📂 Project Structure
+# 📁 Project Structure
 
 ```
 modern-developer-portfolio
 │
 ├── index.html
+├── preview/
+│   ├── hero.png
+│   ├── about.png
+│   ├── education.png
+│   ├── experience.png
+│   ├── skills.png
+│   ├── projects.png
+│   ├── certificates.png
+│   └── contact.png
+│
 ├── README.md
-├── LICENSE
-└── preview.png
+└── LICENSE
 ```
 
 ---
 
-## 🌐 Deployment
+# 🌍 Deployment
 
-You can easily deploy this portfolio using:
+You can deploy this portfolio using:
 
-* GitHub Pages
-* Netlify
-* Vercel
+• GitHub Pages
+• Netlify
+• Vercel
 
-Recommended: **Netlify**
+Recommended:
+
+**Netlify**
 
 ---
 
-## 📜 License
+# 📜 License
 
 This project is licensed under the **MIT License**.
 
-You are free to use and modify this portfolio for your personal projects.
+You are free to use and modify this portfolio for your own personal website.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-Created by **Sachin Deepak**
+Created by **Sachin Deepak S**
 
 GitHub
 https://github.com/Sachin-deepak-S
@@ -113,4 +173,4 @@ https://linkedin.com/in/sachin-deepak-s
 
 ---
 
-⭐ If you like this project, consider **starring the repository**.
+⭐ If you like this project, please consider **starring the repository**.
