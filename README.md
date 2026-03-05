@@ -37,7 +37,7 @@ https://sachindeepak.dev
 
 ## Projects Section
 
-![Projects Preview](preview/projects.png)
+![Projects Preview](project.png)
 
 ## Certificates Section
 
