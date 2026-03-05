@@ -45,7 +45,7 @@ https://sachindeepak.dev
 
 ## Contact Section
 
-![Contact Preview](preview/profile.png)
+![Contact Preview](preview/personal details.png)
 
 ---
 
